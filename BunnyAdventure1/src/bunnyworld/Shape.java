@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class Shape {
 	//Push check
 	
+	// Push check-- Cate
 	private String name;
 	
 	// what should be displayed
