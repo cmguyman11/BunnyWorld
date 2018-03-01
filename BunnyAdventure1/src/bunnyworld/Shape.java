@@ -4,10 +4,17 @@ import java.util.ArrayList;
 //new comment to test
 
 public class Shape {
+
 	//Push check
+	//Quirk check
+	//Quirk check2
+	//Quirk check5
+	//Quirk check10
+	//Santiago check
 	
 	// Push check-- Cate
 	private String name;
+	
 	
 	// what should be displayed
 	private String text;
