@@ -8,7 +8,7 @@ public class Shape {
 	//Push check
 	//Quirk check
 	//Quirk check2
-
+	//Quirk check5
 	//Santiago check
 	
 	private String name;
