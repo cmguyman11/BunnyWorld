@@ -6,6 +6,7 @@ public class Shape {
 	
 	private String name;
 	
+	
 	// what should be displayed
 	private String text;
 	private String image;
