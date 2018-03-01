@@ -9,6 +9,7 @@ public class Shape {
 	//Quirk check
 	//Quirk check2
 	//Quirk check5
+	//Quirk check10
 	//Santiago check
 	
 	private String name;
