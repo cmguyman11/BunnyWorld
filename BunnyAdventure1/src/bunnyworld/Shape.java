@@ -1,8 +1,15 @@
 package bunnyworld;
 
 import java.util.ArrayList;
+//new comment to test
 
 public class Shape {
+<<<<<<< HEAD
+=======
+	//Push check
+	//Quirk check
+	//Quirk check2
+>>>>>>> branch 'master' of https://github.com/quirkStanford/BunnyAdventure.git
 	
 	private String name;
 	
